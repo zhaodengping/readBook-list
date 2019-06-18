@@ -13,4 +13,4 @@
 
 古董局中局之大结局 [马伯庸]
 ### 6月 
-许三观卖血记 [余华]
+[许三观卖血记](https://github.com/zhaodengping/readBook-list/blob/master/bookDetails/2019/june.md) [余华]
