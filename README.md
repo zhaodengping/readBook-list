@@ -17,4 +17,4 @@
 
 ## 理财
 
-[小狗钱钱音频](https://github.com/zhaodengping/readBook-list/blob/master/bookDetails/2019/june.md) （德）[博多·舍费尔] 2019-06
+小狗钱钱（德）[博多·舍费尔] 2019-06
