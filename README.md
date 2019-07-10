@@ -18,3 +18,7 @@
 ## 理财
 
 小狗钱钱（德）[博多·舍费尔] 2019-06
+
+## 影视
+
+[3年A班](https://github.com/zhaodengping/readBook-list/blob/master/bookDetails/2019/july.md) (日) 2019-7
