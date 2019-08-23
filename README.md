@@ -19,6 +19,14 @@
 
 小狗钱钱（德）[博多·舍费尔] 2019-06
 
-## 影视
+富爸爸与穷爸爸 2019-07
+
+## 影视 
 
 [3年A班](https://github.com/zhaodengping/readBook-list/blob/master/bookDetails/2019/july.md) (日) 2019-7
+
+我要准时下班 (日) 2019-7
+
+无法成为野兽的我们 (日) 2019-7
+
+轮到你了 (日) 2019-8
