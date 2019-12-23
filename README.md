@@ -18,7 +18,7 @@
 ## 技术
 黑客与画家 (美)[Paul Graham] 阮一峰 译 2019-12
 
-[React.js](http://huziketang.mangojuice.top/books/react/me/) 小书 [胡子大哈] 2019-12
+[React.js小书](http://huziketang.mangojuice.top/books/react/) [胡子大哈] 2019-12
 
 ## 理财
 
