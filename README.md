@@ -26,6 +26,9 @@
 古董局中局之大结局 [马伯庸] 2019-01
 
 ## 技术
+
+[You Dont know JS](https://github.com/getify/You-Dont-Know-JS) 2020-01
+
 黑客与画家 (美)[Paul Graham] 译者：阮一峰 2019-12
 
 [React.js小书](http://huziketang.mangojuice.top/books/react/) [胡子大哈] 2019-12
