@@ -27,6 +27,8 @@
 
 ## 技术
 
+[ECMAScript入门](http://es6.ruanyifeng.com/) [阮一峰] 2020-01
+
 [You Dont know JS](https://github.com/getify/You-Dont-Know-JS) 2020-01
 
 黑客与画家 (美)[Paul Graham] 译者：阮一峰 2019-12
