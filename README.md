@@ -37,6 +37,12 @@
 
 ## 技术
 
+你不知道的javascript(上卷) by Kyle simpson (美) 单业 译 2020-04
+
+你不知道的javascript(上卷) by Kyle simpson (美) 单业 姜南 译 2020-04
+
+你不知道的javascript(上卷) by Kyle simpson (美) 单业 姜南 译 2020-04
+
 你不知道的javascript(上卷) by Kyle simpson (美) 赵望野 梁洁 译 2020-04
 
 [exploringjs] by Dr. Axel Rauschmayer 2020-01
