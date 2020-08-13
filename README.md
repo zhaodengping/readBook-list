@@ -45,6 +45,8 @@
 
 ## 技术
 
+[Redux](https://redux.js.org/) 2020-08
+
 HTML5权威指南 by 陆凌牛 2020-04
 
 你不知道的javascript(上卷) by Kyle simpson (美) 单业 译 2020-04
