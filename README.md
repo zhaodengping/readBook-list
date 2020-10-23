@@ -55,6 +55,8 @@
 
 ## 技术
 
+[webpack5文档](https://webpack.docschina.org/concepts/) 2020-10
+
 [Redux](https://redux.js.org/) 2020-08
 
 HTML5权威指南 by 陆凌牛 2020-04
